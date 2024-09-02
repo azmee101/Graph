@@ -74,7 +74,6 @@ void solve(){
     else{
         cout << "not same" << '\n';
     }
-
     
     ds.unionBySize(3, 7);
 
