@@ -74,7 +74,7 @@ void solve(){
     else{
         cout << "not same" << '\n';
     }
-    
+
     ds.unionBySize(3, 7);
 
     // if 3 and 7 belong to the same componenets or not
